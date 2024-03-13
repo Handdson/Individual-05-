@@ -1,3 +1,3 @@
-[Link do tableau](https://public.tableau.com/app/profile/handdson.wanglas/viz/Individual5_17097547084660/Histria1#1)
-[PDF]()
-[Arquivo do Tableau]()
+- [Link do tableau](https://public.tableau.com/app/profile/handdson.wanglas/viz/Individual5_17097547084660/Histria1#1)
+- [PDF](História 1.pdf)
+- [Arquivo do Tableau](Individual 5.twbx)
